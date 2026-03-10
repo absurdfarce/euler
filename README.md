@@ -1,1 +1,3 @@
-Just a dumping ground for some [Project Euler](https://projecteuler.net/) solutions really.  I had these archived in a tarball somewhere and I just got tired of keeping track of it. 
+Just a dumping ground for some [Project Euler](https://projecteuler.net/) solutions really.  I had these archived in a tarball somewhere and I just got tired of keeping track of it.
+
+I'm not actually sure if any of this works anymore... probably should verify that at some point.
